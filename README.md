@@ -17,7 +17,8 @@ Font Link: https://fonts.google.com/specimen/Josefin+Sans
  3. react-scripts
 
 #### To **RUN** this Project 
-npm i - installs all the requiremnets 
+npm i - installs all the requirements 
+
 npm start 
 
 ## Images of the project :
